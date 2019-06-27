@@ -6,7 +6,7 @@ package array;
  * 2.当当前步数所在的位置处在矩阵之中，就把当前位置放在结果数组中
  * 3.用两个数组控制前进方向
  */
-public class leetcode885_Spiral_Matrix_III {
+public class leetcode885 {
     public int[][] spiralMatrixIII(int R, int C, int r0, int c0) {
         int[] dr = new int[]{0, 1, 0, -1};
         int[] dc = new int[]{1, 0, -1, 0};

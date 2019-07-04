@@ -2,6 +2,7 @@
 ### leetcode题目解法（持续更新）
 1. #### tree
     - leetcode 421 数组中两个数的最大异或值
+    - leetcode 1104 二叉树寻路
 2. #### string
     - leetcode 609 在系统中查找重复文件
 3. #### queue

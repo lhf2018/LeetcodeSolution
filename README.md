@@ -8,13 +8,16 @@
 3. #### queue
     - leetcode 841 钥匙和房间
 4. #### array
+    - leetcode 667 优美的排列 II
     - leetcode 835 图像重叠
     - leetcode 885 螺旋矩阵 III
 5. #### backtracking
     - leetcode 90 子集 II
+    - leetcode 526 优美的排列
 6. #### math
     - leetcode 313 超级丑数
 7. #### dynamic programming
+    - leetcode 62 不同路径
     - leetcode 931 下降路径最小和
 8. #### dfs
     - leetcode 695 岛屿的最大面积

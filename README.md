@@ -8,6 +8,8 @@
 3. #### queue
     - leetcode 841 钥匙和房间
 4. #### array
+    - leetcode 36 有效的数独
+    - leetcode 73 矩阵置零
     - leetcode 667 优美的排列 II
     - leetcode 835 图像重叠
     - leetcode 885 螺旋矩阵 III

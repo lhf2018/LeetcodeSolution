@@ -6,7 +6,6 @@ package math;
 import java.util.Arrays;
 
 public class leetcode462 {
-    class Solution {
         public int minMoves2(int[] nums) {
             int n=(nums.length+1)/2;
             Arrays.sort(nums);
@@ -17,5 +16,4 @@ public class leetcode462 {
             }
             return res;
         }
-    }
 }

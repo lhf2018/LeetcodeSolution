@@ -18,9 +18,11 @@
     - leetcode 526 优美的排列
 6. #### math
     - leetcode 313 超级丑数
+    - leetcode 462 最少移动次数使数组元素相等 II
 7. #### dynamic programming
     - leetcode 62 不同路径
     - leetcode 931 下降路径最小和
+    - leetcode 1043 分隔数组以得到最大和
 8. #### dfs
     - leetcode 695 岛屿的最大面积
 

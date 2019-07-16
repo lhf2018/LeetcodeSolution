@@ -4,8 +4,10 @@
 题号 | 名称 |  类型  
 -|-|-
 36 | 有效的数独 | array |
+47 | 全排列 II | backtracking |
 62 | 不同路径 | dynamic programming |
 73 | 矩阵置零 | array |
+75 | 颜色分类 | array |
 90 | 子集 II | backtracking |
 222 | 完全二叉树的节点个数 | tree |
 313 | 超级丑数 | math |
@@ -26,6 +28,7 @@
 1104 | 二叉树寻路 | tree |
 1108 | IP 地址无效化 | string |
 1111 | 有效括号的嵌套深度 | string |
+1114 | 按序打印 | multithreading |
 
 
 

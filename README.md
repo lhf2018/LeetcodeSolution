@@ -27,6 +27,7 @@
 931 | 下降路径最小和 | dynamic programming |
 1043 | 分隔数组以得到最大和 | dynamic programming |
 1003 | 检查替换后的词是否有效 | string |
+1016 | 子串能表示从 1 到 N 数字的二进制串 | string |
 1104 | 二叉树寻路 | tree |
 1108 | IP 地址无效化 | string |
 1111 | 有效括号的嵌套深度 | string |

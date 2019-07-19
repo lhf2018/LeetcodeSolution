@@ -11,6 +11,7 @@
 90 | 子集 II | backtracking |
 222 | 完全二叉树的节点个数 | tree |
 313 | 超级丑数 | math |
+343 | 整数拆分 | dynamic programming |
 382 | 链表随机节点 | reservoir sampling |
 421 | 数组中两个数的最大异或值 | tree |
 454 | 四数相加 II | hashmap |
@@ -19,6 +20,7 @@
 609 | 在系统中查找重复文件 | string |
 667 | 优美的排列 II | array |
 695 | 岛屿的最大面积 | dfs |
+781 | 森林中的兔子 | math |
 817 | 链表组件 | linked list |
 835 | 图像重叠 | array |
 841 | 钥匙和房间 | queue |
@@ -32,6 +34,7 @@
 1108 | IP 地址无效化 | string |
 1111 | 有效括号的嵌套深度 | string |
 1114 | 按序打印 | multithreading |
+1123 | 最深叶节点的最近公共祖先 | tree |
 
 
 

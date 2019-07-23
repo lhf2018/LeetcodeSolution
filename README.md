@@ -17,9 +17,12 @@
 454 | 四数相加 II | hashmap |
 462 | 最少移动次数使数组元素相等 II | math |
 526 | 优美的排列 | backtracking |
+553 | 最优除法 | math |
 609 | 在系统中查找重复文件 | string |
 667 | 优美的排列 II | array |
+676 | 实现一个魔法字典 | hashtable |
 695 | 岛屿的最大面积 | dfs |
+714 | 买卖股票的最佳时机含手续费 | dynamic programming |
 781 | 森林中的兔子 | math |
 817 | 链表组件 | linked list |
 835 | 图像重叠 | array |

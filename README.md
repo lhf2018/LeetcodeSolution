@@ -8,6 +8,8 @@
 62 | 不同路径 | dynamic programming |
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |
+80 | 删除排序数组中的重复项 II | array |
+86 | 分隔链表 | linked list |
 90 | 子集 II | backtracking |
 222 | 完全二叉树的节点个数 | tree |
 313 | 超级丑数 | math |
@@ -20,6 +22,7 @@
 547 | 朋友圈 | dfs |
 553 | 最优除法 | math |
 609 | 在系统中查找重复文件 | string |
+648 | 单词替换 | trie |
 667 | 优美的排列 II | array |
 676 | 实现一个魔法字典 | hashtable |
 695 | 岛屿的最大面积 | dfs |

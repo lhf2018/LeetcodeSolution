@@ -35,7 +35,9 @@
 856 | 括号的分数 | stack |
 885 | 螺旋矩阵 III | array |
 931 | 下降路径最小和 | dynamic programming |
+932 | 漂亮数组 | divide and conquer |
 946 | 验证栈序列 | stack |
+983 | 最低票价 | dynamic programming |
 1043 | 分隔数组以得到最大和 | dynamic programming |
 1003 | 检查替换后的词是否有效 | string |
 1016 | 子串能表示从 1 到 N 数字的二进制串 | string |

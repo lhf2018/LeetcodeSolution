@@ -5,6 +5,8 @@
 -|-|-
 36 | 有效的数独 | array |
 47 | 全排列 II | backtracking |
+51 | N皇后 | backtracking |
+51 | N皇后 II | backtracking |
 62 | 不同路径 | dynamic programming |
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |

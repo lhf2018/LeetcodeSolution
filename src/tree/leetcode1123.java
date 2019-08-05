@@ -15,6 +15,14 @@ package tree;
  * }
  */
 public class leetcode1123 {
+    class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x){
+            val=x;
+        }
+    }
     public TreeNode lcaDeepestLeaves(TreeNode root) {
         if(root==null){
             return null;

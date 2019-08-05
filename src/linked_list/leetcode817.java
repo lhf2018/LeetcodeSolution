@@ -7,12 +7,12 @@ import java.util.Set;
  * 使用flag记录当前是否处在一个组件中,false证明不在，true证明在
  * 使用hashset匹配是否是在G中
  */
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
 public class leetcode817 {
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
     public int numComponents(ListNode head, int[] G) {
         Set<Integer> set=new HashSet<>();
         //放入hashset

@@ -6,6 +6,14 @@ import java.util.List;
 import java.util.Set;
 
 public class leetcode1110 {
+    class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x){
+            val=x;
+        }
+    }
     List<TreeNode> res=new ArrayList<>();
     Set<Integer> set=new HashSet<>();
     public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {

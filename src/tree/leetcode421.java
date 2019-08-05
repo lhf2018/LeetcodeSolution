@@ -15,15 +15,15 @@ package tree;
  * 第二步：遍历数组，根据数组中的每一个数去字典中查找尽量每一位都相反的数，求异或，取最大值
  *
  */
-class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
-        val=x;
-    }
-}
 public class leetcode421 {
+    class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x){
+            val=x;
+        }
+    }
     public int findMaximumXOR(int[] nums) {
         TreeNode root=new TreeNode(-1);
         for(int num:nums){

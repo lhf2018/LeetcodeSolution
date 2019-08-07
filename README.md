@@ -27,8 +27,10 @@
 526 | 优美的排列 | backtracking |
 547 | 朋友圈 | dfs |
 553 | 最优除法 | math |
+565 | 数组嵌套 | array |
 609 | 在系统中查找重复文件 | string |
 638 | 大礼包 | dfs |
+646 | 最长数对链 | array |
 648 | 单词替换 | trie |
 667 | 优美的排列 II | array |
 676 | 实现一个魔法字典 | hashtable |

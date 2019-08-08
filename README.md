@@ -23,6 +23,7 @@
 421 | 数组中两个数的最大异或值 | tree |
 454 | 四数相加 II | hashmap |
 462 | 最少移动次数使数组元素相等 II | math |
+481 | 神奇字符串 | double pointer |
 495 | 提莫攻击 | array |
 526 | 优美的排列 | backtracking |
 547 | 朋友圈 | dfs |
@@ -47,9 +48,11 @@
 932 | 漂亮数组 | divide and conquer |
 946 | 验证栈序列 | stack |
 983 | 最低票价 | dynamic programming |
+991 | 坏了的计算器 | math |
 1043 | 分隔数组以得到最大和 | dynamic programming |
 1003 | 检查替换后的词是否有效 | string |
 1016 | 子串能表示从 1 到 N 数字的二进制串 | string |
+1026 | 节点与其祖先之间的最大差值 | tree |
 1104 | 二叉树寻路 | tree |
 1108 | IP 地址无效化 | string |
 1110 | 删点成林 | tree |

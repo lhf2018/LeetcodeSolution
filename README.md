@@ -3,6 +3,7 @@
 
 题号 | 名称 |  类型  
 -|-|-
+8 | 字符串转换整数 (atoi) | string |
 17 | 电话号码的字母组合 | backtracking |
 36 | 有效的数独 | array |
 47 | 全排列 II | backtracking |
@@ -39,6 +40,7 @@
 676 | 实现一个魔法字典 | hashtable |
 695 | 岛屿的最大面积 | dfs |
 714 | 买卖股票的最佳时机含手续费 | dynamic programming |
+725 | 分隔链表 | linked list |
 756 | 金字塔转换矩阵 | dfs |
 781 | 森林中的兔子 | math |
 817 | 链表组件 | linked list |

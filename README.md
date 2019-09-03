@@ -66,6 +66,7 @@
 1111 | 有效括号的嵌套深度 | string |
 1114 | 按序打印 | multithreading |
 1123 | 最深叶节点的最近公共祖先 | tree |
+1130 | 叶值的最小代价生成树 | dynamic programming |
 1140 | 石子游戏 II | dfs |
 
 

@@ -46,6 +46,7 @@
 714 | 买卖股票的最佳时机含手续费 | dynamic programming |
 725 | 分隔链表 | linked list |
 756 | 金字塔转换矩阵 | dfs |
+769 | 最多能完成排序的块 | array |
 781 | 森林中的兔子 | math |
 817 | 链表组件 | linked list |
 835 | 图像重叠 | array |

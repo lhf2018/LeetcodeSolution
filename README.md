@@ -45,6 +45,7 @@
 695 | 岛屿的最大面积 | dfs |
 714 | 买卖股票的最佳时机含手续费 | dynamic programming |
 725 | 分隔链表 | linked list |
+740 | 删除与获得点数 | dynamic programming |
 756 | 金字塔转换矩阵 | dfs |
 769 | 最多能完成排序的块 | array |
 781 | 森林中的兔子 | math |

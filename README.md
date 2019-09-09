@@ -24,6 +24,7 @@
 343 | 整数拆分 | dynamic programming |
 382 | 链表随机节点 | reservoir sampling |
 392 | 判断子序列 | string |
+399 | 除法求值 | dfs |
 421 | 数组中两个数的最大异或值 | tree |
 445 | 两数相加 II | linked list |
 454 | 四数相加 II | hashmap |

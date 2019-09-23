@@ -32,6 +32,7 @@
 454 | 四数相加 II | hashmap |
 462 | 最少移动次数使数组元素相等 II | math |
 481 | 神奇字符串 | double pointer |
+486 | 预测赢家 | dynamic programming |
 495 | 提莫攻击 | array |
 526 | 优美的排列 | backtracking |
 539 | 最小时间差 | string |

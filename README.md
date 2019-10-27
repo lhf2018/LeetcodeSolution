@@ -79,6 +79,10 @@
 1123 | 最深叶节点的最近公共祖先 | tree |
 1130 | 叶值的最小代价生成树 | dynamic programming |
 1140 | 石子游戏 II | dfs |
+1233 | 删除子文件夹 | array |
+5238 | 找出给定方程的正整数解 | weekly contest |
+5239 | 循环码排列 | weekly contest |
+5240 | 串联字符串的最大长度 | weekly contest |
 
 
 

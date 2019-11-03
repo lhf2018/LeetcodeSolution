@@ -83,6 +83,8 @@
 5238 | 找出给定方程的正整数解 | weekly contest |
 5239 | 循环码排列 | weekly contest |
 5240 | 串联字符串的最大长度 | weekly contest |
+5247 | 交换字符使得字符串相同 | weekly contest |
+5249 | 移除无效的括号 | weekly contest |
 5096 | 数组变换 | biweekly contest |
 5097 | 力扣排行榜 | biweekly contest |
 5098 | 树的直径 | biweekly contest |

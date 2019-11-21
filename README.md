@@ -6,6 +6,7 @@
 8 | 字符串转换整数 (atoi) | string |
 17 | 电话号码的字母组合 | backtracking |
 36 | 有效的数独 | array |
+41 | 缺失的第一个正数 | array |
 47 | 全排列 II | backtracking |
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |

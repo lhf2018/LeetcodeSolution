@@ -91,6 +91,8 @@
 5263 | 二维网格迁移 | weekly contest |
 5264 | 在受污染的二叉树中查找元素 | weekly contest |
 5265 | 可被三整除的最大和 | weekly contest |
+5273 | 搜索推荐系统 | weekly contest |
+5274 | 停在原地的方案数 | weekly contest |
 5096 | 数组变换 | biweekly contest |
 5097 | 力扣排行榜 | biweekly contest |
 5098 | 树的直径 | biweekly contest |

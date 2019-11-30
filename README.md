@@ -97,6 +97,8 @@
 5097 | 力扣排行榜 | biweekly contest |
 5098 | 树的直径 | biweekly contest |
 5108 | 加密数字 | biweekly contest |
+5112 | 十六进制魔术数字 | biweekly contest |
+5113 | 删除区间 | biweekly contest |
 
 
 

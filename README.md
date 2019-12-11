@@ -32,6 +32,7 @@
 399 | 除法求值 | dfs |
 421 | 数组中两个数的最大异或值 | tree |
 445 | 两数相加 II | linked list |
+449 | 序列化和反序列化二叉搜索树 | tree |
 454 | 四数相加 II | hashmap |
 462 | 最少移动次数使数组元素相等 II | math |
 481 | 神奇字符串 | double pointer |

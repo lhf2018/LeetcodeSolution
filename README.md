@@ -100,6 +100,8 @@
 5108 | 加密数字 | biweekly contest |
 5112 | 十六进制魔术数字 | biweekly contest |
 5113 | 删除区间 | biweekly contest |
+5123 | 字母组合迭代器 | biweekly contest |
+5127 | 删除被覆盖区间 | biweekly contest |
 
 
 

@@ -97,6 +97,9 @@
 5265 | 可被三整除的最大和 | weekly contest |
 5273 | 搜索推荐系统 | weekly contest |
 5274 | 停在原地的方案数 | weekly contest |
+5307 | 将整数转换为两个无零整数的和 | weekly contest |
+5308 | 或运算的最小翻转次数 | weekly contest |
+5309 | 连通网络的操作次数 | weekly contest |
 5096 | 数组变换 | biweekly contest |
 5097 | 力扣排行榜 | biweekly contest |
 5098 | 树的直径 | biweekly contest |

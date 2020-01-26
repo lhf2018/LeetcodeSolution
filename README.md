@@ -3,6 +3,7 @@
 
 题号 | 名称 |  类型  
 -|-|-
+1 | 两数之和 | array |
 8 | 字符串转换整数 (atoi) | string |
 17 | 电话号码的字母组合 | backtracking |
 36 | 有效的数独 | array |

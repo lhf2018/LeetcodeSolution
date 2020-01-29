@@ -3,7 +3,7 @@ package biweeklycontest;
 /**
  * 十六进制魔术数字
  */
-public class No5112 {
+public class leetcode1271 {
     class Solution {
         public String toHexspeak(String num) {
             long n=Long.parseLong(num);

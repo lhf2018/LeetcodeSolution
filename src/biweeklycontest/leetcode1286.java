@@ -8,7 +8,7 @@ import java.util.List;
  * leetcode 字母组合迭代器
  * 解题思路：通过深度优先搜索把所有这个长度的字典序添加进list，排序后结果就是字典序
  */
-public class No5123 {
+public class leetcode1286 {
     class CombinationIterator {
         List<String> list=new ArrayList<>();
         char[] ch;

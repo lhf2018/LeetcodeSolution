@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 删除区间
  */
-public class No5113 {
+public class leetcode1272 {
     class Solution {
         public List<List<Integer>> removeInterval(int[][] intervals, int[] toBeRemoved) {
             int start=toBeRemoved[0];

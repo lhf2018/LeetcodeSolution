@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class No5265 {
+public class leetcode1262 {
     class Solution {
         List<Integer> list1=new ArrayList<>();
         List<Integer> list2=new ArrayList<>();

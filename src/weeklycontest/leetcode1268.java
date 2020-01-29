@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 搜索推荐系统
  */
-public class No5273 {
+public class leetcode1268 {
     class Solution {
         public List<List<String>> suggestedProducts(String[] products, String searchWord) {
             Arrays.sort(products);

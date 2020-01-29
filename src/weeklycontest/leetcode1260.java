@@ -3,7 +3,7 @@ package weeklycontest;
 import java.util.ArrayList;
 import java.util.List;
 
-public class No5263 {
+public class leetcode1260 {
     class Solution {
         public List<List<Integer>> shiftGrid(int[][] grid, int k) {
             for(int i=0;i<k;i++){

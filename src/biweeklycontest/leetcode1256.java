@@ -1,6 +1,6 @@
 package biweeklycontest;
 
-public class No5108 {
+public class leetcode1256 {
     class Solution {
         public String encode(int num) {
             if(num==0)return "";

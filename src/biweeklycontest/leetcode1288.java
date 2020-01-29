@@ -4,10 +4,10 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * 5127 删除被覆盖区间
+ * 1288 删除被覆盖区间
  * 重写comparator接口，排序intervals数组，大的下边界在前面，同等下边界，大的上边界在前面，这样被包含的都在后面
  */
-public class No5127 {
+public class leetcode1288 {
     class Solution {
         public int removeCoveredIntervals(int[][] intervals) {
             Arrays.sort(intervals,new Comparator<int[]>(){

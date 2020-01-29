@@ -3,7 +3,7 @@ package weeklycontest;
 /**
  * 5274. 停在原地的方案数
  */
-public class No5274 {
+public class leetcode1269 {
     class Solution {
         public int numWays(int steps, int arrLen) {
             int mod = 1000000007;

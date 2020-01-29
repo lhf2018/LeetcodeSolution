@@ -24,6 +24,7 @@
 175 | 组合两个表 | sql |
 176 | 第二高的薪水 | sql |
 183 | 从不订购的客户 | sql |
+192 | 统计词频 | shell |
 193 | 有效电话号码 | shell |
 194 | 转置文件 | shell |
 195 | 第十行 | shell |
@@ -57,6 +58,8 @@
 595 | 大的国家 | sql |
 596 | 超过5名学生的课 | sql |
 609 | 在系统中查找重复文件 | string |
+620 | 有趣的电影 | sql |
+627 | 交换工资 | sql |
 633 | 平方数之和 | math |
 638 | 大礼包 | dfs |
 646 | 最长数对链 | array |
@@ -98,28 +101,25 @@
 1130 | 叶值的最小代价生成树 | dynamic programming |
 1140 | 石子游戏 II | dfs |
 1233 | 删除子文件夹 | array |
-5238 | 找出给定方程的正整数解 | weekly contest |
-5239 | 循环码排列 | weekly contest |
-5240 | 串联字符串的最大长度 | weekly contest |
-5247 | 交换字符使得字符串相同 | weekly contest |
-5249 | 移除无效的括号 | weekly contest |
-5256 | 重构 2 行二进制矩阵 | weekly contest |
-5263 | 二维网格迁移 | weekly contest |
-5264 | 在受污染的二叉树中查找元素 | weekly contest |
-5265 | 可被三整除的最大和 | weekly contest |
-5273 | 搜索推荐系统 | weekly contest |
-5274 | 停在原地的方案数 | weekly contest |
-5307 | 将整数转换为两个无零整数的和 | weekly contest |
-5308 | 或运算的最小翻转次数 | weekly contest |
-5309 | 连通网络的操作次数 | weekly contest |
-5096 | 数组变换 | biweekly contest |
-5097 | 力扣排行榜 | biweekly contest |
-5098 | 树的直径 | biweekly contest |
-5108 | 加密数字 | biweekly contest |
-5112 | 十六进制魔术数字 | biweekly contest |
-5113 | 删除区间 | biweekly contest |
-5123 | 字母组合迭代器 | biweekly contest |
-5127 | 删除被覆盖区间 | biweekly contest |
-
-
-
+1237 | 找出给定方程的正整数解 | weekly contest |
+1238 | 循环码排列 | weekly contest |
+1239 | 串联字符串的最大长度 | weekly contest |
+1243 | 数组变换 | biweekly contest |
+1244 | 力扣排行榜 | biweekly contest |
+1245 | 树的直径 | biweekly contest |
+1247 | 交换字符使得字符串相同 | weekly contest |
+1249 | 移除无效的括号 | weekly contest |
+1253 | 重构 2 行二进制矩阵 | weekly contest |
+1256 | 加密数字 | biweekly contest |
+1260 | 二维网格迁移 | weekly contest |
+1261 | 在受污染的二叉树中查找元素 | weekly contest |
+1262 | 可被三整除的最大和 | weekly contest |
+1268 | 搜索推荐系统 | weekly contest |
+1269 | 停在原地的方案数 | weekly contest |
+1271 | 十六进制魔术数字 | biweekly contest |
+1272 | 删除区间 | biweekly contest |
+1286 | 字母组合迭代器 | biweekly contest |
+1288 | 删除被覆盖区间 | biweekly contest |
+1317 | 将整数转换为两个无零整数的和 | weekly contest |
+1318 | 或运算的最小翻转次数 | weekly contest |
+1319 | 连通网络的操作次数 | weekly contest |

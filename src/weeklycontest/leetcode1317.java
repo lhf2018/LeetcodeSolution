@@ -1,6 +1,6 @@
 package weeklycontest;
 
-public class No5307 {
+public class leetcode1317 {
     class Solution {
         public int[] getNoZeroIntegers(int n) {
             for(int i=1;i<n;i++){

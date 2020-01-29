@@ -1,10 +1,10 @@
 package weeklycontest;
 
 /**
- *分别比较两位
+ *思路：分别比较两位
  *
  */
-public class No5308 {
+public class leetcode1318 {
     class Solution {
         public int minFlips(int a, int b, int c) {
             String str1=Integer.toBinaryString(a);

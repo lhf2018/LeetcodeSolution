@@ -1,6 +1,6 @@
 package weeklycontest;
 
-public class No5264 {
+public class leetcode1261 {
 
       public class TreeNode {
           int val;

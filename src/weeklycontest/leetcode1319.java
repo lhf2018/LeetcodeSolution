@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * 查看连通的集合数量num，结果为num-1，如果数量不够，直接返回-1
  */
-public class No5309 {
+public class leetcode1319 {
     class Solution {
         public int makeConnected(int n, int[][] connections) {
             if(connections.length<n-1){

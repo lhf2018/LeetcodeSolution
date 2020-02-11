@@ -1,9 +1,9 @@
 package string;
 
 /**
- * 题目：推文计数
+ * 题目：制造字母异位词的最小步骤数
  */
-public class No5333 {
+public class leetcode1347 {
     class Solution {
         public int minSteps(String s, String t) {
             int[] nums=new int[26];

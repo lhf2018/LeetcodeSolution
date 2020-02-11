@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * 题目：数组大小减半
  */
-public class No5329 {
+public class leetcode1338{
     class Solution {
         public int minSetSize(int[] arr) {
             Map<Integer,Integer> map=new HashMap<>();

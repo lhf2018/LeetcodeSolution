@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 题目：方阵中战斗力最弱的 K 行
  */
-public class No5328 {
+public class leetcode1337 {
     class Solution {
         public int[] kWeakestRows(int[][] mat, int k) {
             List<Integer> list=new ArrayList<>();

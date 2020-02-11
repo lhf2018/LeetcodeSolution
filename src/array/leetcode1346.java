@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * 题目：检查整数及其两倍数是否存在
  */
-public class No5332 {
+public class leetcode1346 {
     class Solution {
         public boolean checkIfExist(int[] arr) {
             Set<Integer> set=new HashSet<>();

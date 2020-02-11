@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 题目：推文计数
  */
-public class No5334 {
+public class leetcode1348 {
     class TweetCounts {
         private Map<String, List<Integer>> map;
         public TweetCounts() {

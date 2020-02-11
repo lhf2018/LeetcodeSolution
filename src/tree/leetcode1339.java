@@ -4,7 +4,7 @@ package tree;
  * 题目：分裂二叉树的最大乘积
  * 注意：不能提前对答案取模
  */
-public class No5330 {
+public class leetcode1339 {
     class TreeNode{
         int val;
         TreeNode left;

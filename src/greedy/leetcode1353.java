@@ -1,4 +1,4 @@
-package array;
+package greedy;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * 题目：最多可以参加的会议数目
  */
-public class No5342 {
+public class leetcode1353 {
     class Solution {
         public int maxEvents(int[][] events) {
             Arrays.sort(events, new Comparator<int[]>() {

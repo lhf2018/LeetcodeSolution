@@ -123,6 +123,7 @@
 1272 | 删除区间 | biweekly contest |
 1286 | 字母组合迭代器 | biweekly contest |
 1288 | 删除被覆盖区间 | biweekly contest |
+1313 | 解压缩编码列表 | array |
 1317 | 将整数转换为两个无零整数的和 | weekly contest |
 1318 | 或运算的最小翻转次数 | weekly contest |
 1319 | 连通网络的操作次数 | weekly contest |
@@ -133,6 +134,5 @@
 1346 | 检查整数及其两倍数是否存在 | array |
 1347 | 制造字母异位词的最小步骤数 | string |
 1348 | 推文计数 | design |
-待更新标号
-5342 | 最多可以参加的会议数目 | array |
-5343 | 多次求和构造目标数组 | array |
+1353 | 最多可以参加的会议数目 | greedy |
+1354 | 多次求和构造目标数组 | greedy |

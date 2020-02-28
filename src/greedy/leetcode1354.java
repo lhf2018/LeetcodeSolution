@@ -1,4 +1,4 @@
-package array;
+package greedy;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 /**
  * 题目：多次求和构造目标数组
  */
-public class No5343 {
+public class leetcode1354 {
     /**
      * 方法一
      */

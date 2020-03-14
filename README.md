@@ -22,6 +22,7 @@
 134 | 加油站 | greedy |
 143 | 重排链表 | linked list |
 146 | LRU缓存机制 | hashmap |
+169 | 多数元素 | math |
 175 | 组合两个表 | sql |
 176 | 第二高的薪水 | sql |
 183 | 从不订购的客户 | sql |
@@ -35,6 +36,7 @@
 222 | 完全二叉树的节点个数 | tree |
 228 | 汇总区间 | string |
 279 | 完全平方数 | dynamic programming |
+300 | 最长上升子序列 | find |
 307 | 区域和检索 - 数组可修改 | array |
 309 | 最佳买卖股票时机含冷冻期 | dynamic programming |
 313 | 超级丑数 | math |
@@ -54,6 +56,7 @@
 495 | 提莫攻击 | array |
 526 | 优美的排列 | backtracking |
 539 | 最小时间差 | string |
+543 | 二叉树的直径 | tree |
 547 | 朋友圈 | dfs |
 553 | 最优除法 | math |
 565 | 数组嵌套 | array |
@@ -90,9 +93,11 @@
 991 | 坏了的计算器 | math |
 1043 | 分隔数组以得到最大和 | dynamic programming |
 1003 | 检查替换后的词是否有效 | string |
+1013 | 将数组分成和相等的三个部分 | array |
 1016 | 子串能表示从 1 到 N 数字的二进制串 | string |
 1025 | 除数博弈 | dynamic programming |
 1026 | 节点与其祖先之间的最大差值 | tree |
+1071 | 字符串的最大公因子 | math |
 1103 | 分糖果 II | math |
 1104 | 二叉树寻路 | tree |
 1108 | IP 地址无效化 | string |

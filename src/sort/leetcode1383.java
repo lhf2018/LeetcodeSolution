@@ -1,10 +1,10 @@
-package z_need_upgrade;
+package sort;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class No5359 {
+public class leetcode1383 {
     class Solution {
         public int maxPerformance(int n, int[] speed, int[] efficiency, int k) {
             int[][] arr=new int[n][2];

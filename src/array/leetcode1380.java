@@ -1,4 +1,4 @@
-package z_need_upgrade;
+package array;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * 统计每一列最大值，每一行最小值，取交集
  */
-public class No5356 {
+public class leetcode1380 {
     class Solution {
         public List<Integer> luckyNumbers (int[][] matrix) {
             List<Integer> list=new ArrayList<>();

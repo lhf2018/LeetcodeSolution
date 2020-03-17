@@ -1,9 +1,9 @@
-package z_need_upgrade;
+package design;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class No5357 {
+public class leetcode1381 {
     class CustomStack {
         List<Integer> list;
         int maxSize;

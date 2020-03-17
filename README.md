@@ -5,10 +5,14 @@
 -|-|-
 1 | 两数之和 | array |
 5 | 最长回文子串 | dynamic programming |
+6 | Z 字形变换 | string |
 8 | 字符串转换整数 (atoi) | string |
+11 | 盛最多水的容器 | double pointer |
+15 | 三数之和 | array |
 17 | 电话号码的字母组合 | backtracking |
 36 | 有效的数独 | array |
 41 | 缺失的第一个正数 | array |
+42 | 接雨水 | array |
 47 | 全排列 II | backtracking |
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |
@@ -18,6 +22,7 @@
 80 | 删除排序数组中的重复项 II | array |
 86 | 分隔链表 | linked list |
 90 | 子集 II | backtracking |
+93 | 复原IP地址 | backtracking |
 124 | 二叉树中的最大路径和 | tree |
 134 | 加油站 | greedy |
 143 | 重排链表 | linked list |
@@ -54,6 +59,7 @@
 481 | 神奇字符串 | double pointer |
 486 | 预测赢家 | dynamic programming |
 495 | 提莫攻击 | array |
+516 | 最长回文子序列 | dynamic programming |
 526 | 优美的排列 | backtracking |
 539 | 最小时间差 | string |
 543 | 二叉树的直径 | tree |
@@ -110,6 +116,8 @@
 1130 | 叶值的最小代价生成树 | dynamic programming |
 1140 | 石子游戏 II | dfs |
 1143 | 最长公共子序列 | dynamic programming |
+1160 | 拼写单词 | array |
+1227 | 飞机座位分配概率 | math |
 1233 | 删除子文件夹 | array |
 1237 | 找出给定方程的正整数解 | weekly contest |
 1238 | 循环码排列 | weekly contest |
@@ -130,6 +138,7 @@
 1272 | 删除区间 | biweekly contest |
 1286 | 字母组合迭代器 | biweekly contest |
 1288 | 删除被覆盖区间 | biweekly contest |
+1290 | 二进制链表转整数 | linked list |
 1313 | 解压缩编码列表 | array |
 1317 | 将整数转换为两个无零整数的和 | weekly contest |
 1318 | 或运算的最小翻转次数 | weekly contest |
@@ -143,8 +152,7 @@
 1348 | 推文计数 | design |
 1353 | 最多可以参加的会议数目 | greedy |
 1354 | 多次求和构造目标数组 | greedy |
-待更新
-5179 | 将二叉搜索树变平衡 | tree |
-5356 | 矩阵中的幸运数 | array |
-5357 | 设计一个支持增量操作的栈 | design |
-5359 | 最大的团队表现值 | sort |
+1380 | 矩阵中的幸运数 | array |
+1381 | 设计一个支持增量操作的栈 | design |
+1382 | 将二叉搜索树变平衡 | tree |
+1383 | 最大的团队表现值 | sort |

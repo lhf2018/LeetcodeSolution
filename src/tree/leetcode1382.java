@@ -1,9 +1,9 @@
-package z_need_upgrade;
+package tree;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class No5179 {
+public class leetcode1382 {
     class TreeNode{
         int val;
         TreeNode left;

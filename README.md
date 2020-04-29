@@ -11,6 +11,7 @@
 15 | 三数之和 | array |
 17 | 电话号码的字母组合 | backtracking |
 36 | 有效的数独 | array |
+40 | 组合总和 II | backtracking |
 41 | 缺失的第一个正数 | array |
 42 | 接雨水 | array |
 47 | 全排列 II | backtracking |

@@ -14,6 +14,7 @@
 41 | 缺失的第一个正数 | array |
 42 | 接雨水 | array |
 47 | 全排列 II | backtracking |
+50 | Pow(x, n) | divide and conquer |
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |
 62 | 不同路径 | dynamic programming |
@@ -23,10 +24,12 @@
 86 | 分隔链表 | linked list |
 90 | 子集 II | backtracking |
 93 | 复原IP地址 | backtracking |
+98 | 验证二叉搜索树 | tree |
+121 | 买卖股票的最佳时机 | greedy |
 124 | 二叉树中的最大路径和 | tree |
 134 | 加油站 | greedy |
 143 | 重排链表 | linked list |
-146 | LRU缓存机制 | hashmap |
+146 | LRU缓存机制 | hashtable |
 169 | 多数元素 | math |
 175 | 组合两个表 | sql |
 176 | 第二高的薪水 | sql |
@@ -48,13 +51,15 @@
 332 | 零钱兑换 | dynamic programming |
 338 | 比特位计数 | dynamic programming |
 343 | 整数拆分 | dynamic programming |
+344 | 反转字符串 | array |
 382 | 链表随机节点 | reservoir sampling |
 392 | 判断子序列 | string |
 399 | 除法求值 | dfs |
+409 | 最长回文串 | hashtable |
 421 | 数组中两个数的最大异或值 | tree |
 445 | 两数相加 II | linked list |
 449 | 序列化和反序列化二叉搜索树 | tree |
-454 | 四数相加 II | hashmap |
+454 | 四数相加 II | hashtable |
 462 | 最少移动次数使数组元素相等 II | math |
 481 | 神奇字符串 | double pointer |
 486 | 预测赢家 | dynamic programming |
@@ -89,6 +94,7 @@
 781 | 森林中的兔子 | math |
 817 | 链表组件 | linked list |
 835 | 图像重叠 | array |
+836 | 矩形重叠 | math |
 841 | 钥匙和房间 | queue |
 856 | 括号的分数 | stack |
 885 | 螺旋矩阵 III | array |

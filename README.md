@@ -104,12 +104,13 @@
 946 | 验证栈序列 | stack |
 983 | 最低票价 | dynamic programming |
 991 | 坏了的计算器 | math |
-1043 | 分隔数组以得到最大和 | dynamic programming |
 1003 | 检查替换后的词是否有效 | string |
 1013 | 将数组分成和相等的三个部分 | array |
 1016 | 子串能表示从 1 到 N 数字的二进制串 | string |
 1025 | 除数博弈 | dynamic programming |
 1026 | 节点与其祖先之间的最大差值 | tree |
+1043 | 分隔数组以得到最大和 | dynamic programming |
+1046 | 最后一块石头的重量 | heap |
 1071 | 字符串的最大公因子 | math |
 1103 | 分糖果 II | math |
 1104 | 二叉树寻路 | tree |

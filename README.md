@@ -31,6 +31,7 @@
 134 | 加油站 | greedy |
 143 | 重排链表 | linked list |
 146 | LRU缓存机制 | hashtable |
+155 | 最小栈 | design |
 169 | 多数元素 | math |
 175 | 组合两个表 | sql |
 176 | 第二高的薪水 | sql |

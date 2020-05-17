@@ -19,6 +19,7 @@
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |
 62 | 不同路径 | dynamic programming |
+70 | 爬楼梯 | dynamic programming |
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |
 80 | 删除排序数组中的重复项 II | array |
@@ -26,9 +27,11 @@
 90 | 子集 II | backtracking |
 93 | 复原IP地址 | backtracking |
 98 | 验证二叉搜索树 | tree |
+102 | 二叉树的层序遍历 | tree |
 121 | 买卖股票的最佳时机 | greedy |
 124 | 二叉树中的最大路径和 | tree |
 134 | 加油站 | greedy |
+136 | 只出现一次的数字 | bit |
 143 | 重排链表 | linked list |
 146 | LRU缓存机制 | hashtable |
 155 | 最小栈 | design |
@@ -45,6 +48,7 @@
 215 | 数组中的第K个最大元素 | array |
 222 | 完全二叉树的节点个数 | tree |
 228 | 汇总区间 | string |
+239 | 滑动窗口最大值 | queue |
 279 | 完全平方数 | dynamic programming |
 300 | 最长上升子序列 | find |
 307 | 区域和检索 - 数组可修改 | array |
@@ -61,6 +65,7 @@
 421 | 数组中两个数的最大异或值 | tree |
 445 | 两数相加 II | linked list |
 449 | 序列化和反序列化二叉搜索树 | tree |
+450 | 删除二叉搜索树中的节点 | tree |
 454 | 四数相加 II | hashtable |
 462 | 最少移动次数使数组元素相等 II | math |
 481 | 神奇字符串 | double pointer |
@@ -72,6 +77,7 @@
 543 | 二叉树的直径 | tree |
 547 | 朋友圈 | dfs |
 553 | 最优除法 | math |
+560 | 和为K的子数组 | hashtable |
 565 | 数组嵌套 | array |
 595 | 大的国家 | sql |
 596 | 超过5名学生的课 | sql |

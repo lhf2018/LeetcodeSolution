@@ -34,6 +34,7 @@
 136 | 只出现一次的数字 | bit |
 143 | 重排链表 | linked list |
 146 | LRU缓存机制 | hashtable |
+152 | 乘积最大子数组 | dynamic programming |
 155 | 最小栈 | design |
 169 | 多数元素 | math |
 175 | 组合两个表 | sql |

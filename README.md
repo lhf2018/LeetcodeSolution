@@ -19,6 +19,7 @@
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |
 62 | 不同路径 | dynamic programming |
+67 | 二进制求和 | bit |
 70 | 爬楼梯 | dynamic programming |
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |
@@ -94,6 +95,7 @@
 655 | 输出二叉树 | tree |
 667 | 优美的排列 II | array |
 676 | 实现一个魔法字典 | hashtable |
+680 | 验证回文字符串 Ⅱ | string |
 695 | 岛屿的最大面积 | dfs |
 714 | 买卖股票的最佳时机含手续费 | dynamic programming |
 725 | 分隔链表 | linked list |

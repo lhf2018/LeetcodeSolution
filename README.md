@@ -30,6 +30,7 @@
 93 | 复原IP地址 | backtracking |
 98 | 验证二叉搜索树 | tree |
 102 | 二叉树的层序遍历 | tree |
+120 | 三角形最小路径和 | dynamic programming |
 121 | 买卖股票的最佳时机 | greedy |
 124 | 二叉树中的最大路径和 | tree |
 134 | 加油站 | greedy |
@@ -61,6 +62,7 @@
 338 | 比特位计数 | dynamic programming |
 343 | 整数拆分 | dynamic programming |
 344 | 反转字符串 | array |
+350 | 两个数组的交集 II | hashtable |
 382 | 链表随机节点 | reservoir sampling |
 392 | 判断子序列 | string |
 399 | 除法求值 | dfs |

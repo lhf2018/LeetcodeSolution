@@ -20,6 +20,7 @@
 50 | Pow(x, n) | divide and conquer |
 51 | N皇后 | backtracking |
 52 | N皇后 II | backtracking |
+54 | 螺旋矩阵 | array |
 62 | 不同路径 | dynamic programming |
 67 | 二进制求和 | bit |
 70 | 爬楼梯 | dynamic programming |

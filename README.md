@@ -60,6 +60,7 @@
 307 | 区域和检索 - 数组可修改 | array |
 309 | 最佳买卖股票时机含冷冻期 | dynamic programming |
 313 | 超级丑数 | math |
+324 | 超级丑数 | sort |
 332 | 零钱兑换 | dynamic programming |
 338 | 比特位计数 | dynamic programming |
 343 | 整数拆分 | dynamic programming |

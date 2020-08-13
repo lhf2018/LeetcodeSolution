@@ -11,11 +11,13 @@
 15 | 三数之和 | array |
 16 | 最接近的三数之和 | array |
 17 | 电话号码的字母组合 | backtracking |
+22 | 括号生成 | backtracking |
 24 | 两两交换链表中的节点 | dfs |
 36 | 有效的数独 | array |
 40 | 组合总和 II | backtracking |
 41 | 缺失的第一个正数 | array |
 42 | 接雨水 | array |
+46 | 全排列 | backtracking |
 47 | 全排列 II | backtracking |
 50 | Pow(x, n) | divide and conquer |
 51 | N皇后 | backtracking |
@@ -26,12 +28,16 @@
 70 | 爬楼梯 | dynamic programming |
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |
+78 | 子集 | array |
 80 | 删除排序数组中的重复项 II | array |
 86 | 分隔链表 | linked list |
 90 | 子集 II | backtracking |
 93 | 复原IP地址 | backtracking |
+94 | 二叉树的中序遍历 | tree |
 98 | 验证二叉搜索树 | tree |
 102 | 二叉树的层序遍历 | tree |
+104 | 二叉树的最大深度 | tree |
+114 | 二叉树展开为链表 | tree |
 120 | 三角形最小路径和 | dynamic programming |
 121 | 买卖股票的最佳时机 | greedy |
 124 | 二叉树中的最大路径和 | tree |
@@ -53,7 +59,9 @@
 197 | 上升的温度 | sql |
 215 | 数组中的第K个最大元素 | array |
 222 | 完全二叉树的节点个数 | tree |
+226 | 翻转二叉树 | tree |
 228 | 汇总区间 | string |
+238 | 除自身以外数组的乘积 | array |
 239 | 滑动窗口最大值 | queue |
 279 | 完全平方数 | dynamic programming |
 300 | 最长上升子序列 | find |
@@ -75,6 +83,7 @@
 449 | 序列化和反序列化二叉搜索树 | tree |
 450 | 删除二叉搜索树中的节点 | tree |
 454 | 四数相加 II | hashtable |
+461 | 汉明距离 | bit |
 462 | 最少移动次数使数组元素相等 II | math |
 481 | 神奇字符串 | double pointer |
 486 | 预测赢家 | dynamic programming |
@@ -91,6 +100,7 @@
 596 | 超过5名学生的课 | sql |
 601 | 体育馆的人流量 | sql |
 609 | 在系统中查找重复文件 | string |
+617 | 合并二叉树 | tree |
 620 | 有趣的电影 | sql |
 627 | 交换工资 | sql |
 633 | 平方数之和 | math |

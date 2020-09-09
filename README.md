@@ -45,6 +45,7 @@
 136 | 只出现一次的数字 | bit |
 143 | 重排链表 | linked list |
 146 | LRU缓存机制 | hashtable |
+148 | 排序链表 | linked list |
 152 | 乘积最大子数组 | dynamic programming |
 155 | 最小栈 | design |
 169 | 多数元素 | math |
@@ -58,6 +59,7 @@
 196 | 删除重复的电子邮箱 | sql |
 197 | 上升的温度 | sql |
 215 | 数组中的第K个最大元素 | array |
+221 | 最大正方形 | dynamic programming |
 222 | 完全二叉树的节点个数 | tree |
 226 | 翻转二叉树 | tree |
 228 | 汇总区间 | string |
@@ -172,6 +174,7 @@
 1269 | 停在原地的方案数 | weekly contest |
 1271 | 十六进制魔术数字 | biweekly contest |
 1272 | 删除区间 | biweekly contest |
+1277 | 统计全为 1 的正方形子矩阵 | dynamic programming |
 1286 | 字母组合迭代器 | biweekly contest |
 1288 | 删除被覆盖区间 | biweekly contest |
 1290 | 二进制链表转整数 | linked list |

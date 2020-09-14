@@ -29,6 +29,7 @@
 73 | 矩阵置零 | array |
 75 | 颜色分类 | array |
 78 | 子集 | array |
+79 | 单词搜索 | dfs |
 80 | 删除排序数组中的重复项 II | array |
 86 | 分隔链表 | linked list |
 90 | 子集 II | backtracking |

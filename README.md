@@ -17,6 +17,7 @@
 40 | 组合总和 II | backtracking |
 41 | 缺失的第一个正数 | array |
 42 | 接雨水 | array |
+43 | 字符串相乘 | math |
 46 | 全排列 | backtracking |
 47 | 全排列 II | backtracking |
 50 | Pow(x, n) | divide and conquer |
@@ -49,6 +50,7 @@
 148 | 排序链表 | linked list |
 152 | 乘积最大子数组 | dynamic programming |
 155 | 最小栈 | design |
+165 | 比较版本号 | string |
 169 | 多数元素 | math |
 175 | 组合两个表 | sql |
 176 | 第二高的薪水 | sql |

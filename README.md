@@ -131,6 +131,7 @@
 835 | 图像重叠 | array |
 836 | 矩形重叠 | math |
 841 | 钥匙和房间 | queue |
+844 | 比较含退格的字符串 | stack |
 856 | 括号的分数 | stack |
 885 | 螺旋矩阵 III | array |
 931 | 下降路径最小和 | dynamic programming |

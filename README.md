@@ -124,6 +124,7 @@
 725 | 分隔链表 | linked list |
 740 | 删除与获得点数 | dynamic programming |
 756 | 金字塔转换矩阵 | dfs |
+763 | 划分字母区间 | double pointer |
 769 | 最多能完成排序的块 | array |
 781 | 森林中的兔子 | math |
 805 | 数组的均值分割 | dfs |
@@ -134,6 +135,7 @@
 844 | 比较含退格的字符串 | stack |
 856 | 括号的分数 | stack |
 885 | 螺旋矩阵 III | array |
+925 | 长按键入 | double pointer |
 931 | 下降路径最小和 | dynamic programming |
 932 | 漂亮数组 | divide and conquer |
 946 | 验证栈序列 | stack |

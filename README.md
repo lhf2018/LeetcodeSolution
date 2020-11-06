@@ -79,6 +79,7 @@
 338 | 比特位计数 | dynamic programming |
 343 | 整数拆分 | dynamic programming |
 344 | 反转字符串 | array |
+349 | 两个数组的交集 | hashtable |
 350 | 两个数组的交集 II | hashtable |
 382 | 链表随机节点 | reservoir sampling |
 392 | 判断子序列 | string |
@@ -138,6 +139,7 @@
 925 | 长按键入 | double pointer |
 931 | 下降路径最小和 | dynamic programming |
 932 | 漂亮数组 | divide and conquer |
+941 | 有效的山脉数组 | array |
 946 | 验证栈序列 | stack |
 983 | 最低票价 | dynamic programming |
 991 | 坏了的计算器 | math |
@@ -162,6 +164,7 @@
 1140 | 石子游戏 II | dfs |
 1143 | 最长公共子序列 | dynamic programming |
 1160 | 拼写单词 | array |
+1207 | 独一无二的出现次数 | hashtable |
 1227 | 飞机座位分配概率 | math |
 1233 | 删除子文件夹 | array |
 1237 | 找出给定方程的正整数解 | weekly contest |
@@ -189,15 +192,16 @@
 1317 | 将整数转换为两个无零整数的和 | weekly contest |
 1318 | 或运算的最小翻转次数 | weekly contest |
 1319 | 连通网络的操作次数 | weekly contest |
-1342 | 将数字变成 0 的操作次数 | bit |
 1337 | 方阵中战斗力最弱的 K 行 | array |
 1338 | 数组大小减半 | array |
 1339 | 分裂二叉树的最大乘积 | tree |
+1342 | 将数字变成 0 的操作次数 | bit |
 1346 | 检查整数及其两倍数是否存在 | array |
 1347 | 制造字母异位词的最小步骤数 | string |
 1348 | 推文计数 | design |
 1353 | 最多可以参加的会议数目 | greedy |
 1354 | 多次求和构造目标数组 | greedy |
+1356 | 根据数字二进制下 1 的数目排序 | sort |
 1380 | 矩阵中的幸运数 | array |
 1381 | 设计一个支持增量操作的栈 | design |
 1382 | 将二叉搜索树变平衡 | tree |

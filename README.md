@@ -141,6 +141,7 @@
 932 | 漂亮数组 | divide and conquer |
 941 | 有效的山脉数组 | array |
 946 | 验证栈序列 | stack |
+973 | 最接近原点的 K 个点 | sort |
 983 | 最低票价 | dynamic programming |
 991 | 坏了的计算器 | math |
 1003 | 检查替换后的词是否有效 | string |

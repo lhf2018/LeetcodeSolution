@@ -10,30 +10,50 @@ public class leetcode1122 {
     /**
      * Solution
      */
-    class Solution {
-        public int[] relativeSortArray(int[] arr1, int[] arr2) {
-            List<Integer> list=new ArrayList<>();
-            Map<Integer,Integer> map=new HashMap<>();
-            for(int i=0;i<arr1.length;i++){
-                map.put(arr1[i],map.getOrDefault(arr1[i],0)+1);
-            }
-            int index=0;
-            for(int i=0;i<arr2.length;i++){
-                int num=map.get(arr2[i]);
-                for(int j=0;j<num;j++){
-                    arr1[index++]=arr2[i];
-                }
-                map.remove(arr2[i]);
-            }
-            for(int num:map.keySet()){
-                int num1=map.get(num);
-                for(int i=0;i<num1;i++)list.add(num);
-            }
-            Collections.sort(list);
-            for(int i=0;i<list.size();i++){
-                arr1[index++]=list.get(i);
-            }
-            return arr1;
+        //方法一
+    public int[] relativeSortArray(int[] arr1, int[] arr2) {
+        List<Integer> list=new ArrayList<>();
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<arr1.length;i++){
+            map.put(arr1[i],map.getOrDefault(arr1[i],0)+1);
         }
+        int index=0;
+        for(int i=0;i<arr2.length;i++){
+            int num=map.get(arr2[i]);
+            for(int j=0;j<num;j++){
+                arr1[index++]=arr2[i];
+            }
+            map.remove(arr2[i]);
+        }
+        for(int num:map.keySet()){
+            int num1=map.get(num);
+            for(int i=0;i<num1;i++)list.add(num);
+        }
+        Collections.sort(list);
+        for(int i=0;i<list.size();i++){
+            arr1[index++]=list.get(i);
+        }
+        return arr1;
+    }
+    //方法二
+    public int[] relativeSortArray2(int[] arr1, int[] arr2) {
+        int[] temp=new int[1001];
+        for(int i:arr1){
+            temp[i]++;
+        }
+        int index=0;
+        for(int i:arr2){
+            while(temp[i]>0){
+                arr1[index++]=i;
+                temp[i]--;
+            }
+        }
+        for(int i=0;i<temp.length;i++){
+            while(temp[i]>0){
+                arr1[index++]=i;
+                temp[i]--;
+            }
+        }
+        return arr1;
     }
 }

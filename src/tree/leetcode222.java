@@ -4,16 +4,29 @@ package tree;
  * 深度优先搜索
  */
 public class leetcode222 {
-    class TreeNode{
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x){
-            val=x;
+    //方法一
+    public int countNodes(TreeNode root) {
+        TreeNode l=root;
+        TreeNode r=root;
+        int hl=0;
+        int ht=0;
+        while (l != null) {
+            l = l.left;
+            hl++;
+        }
+        while(r!=null){
+            r=r.right;
+            ht++;
+        }
+        if(hl==ht){
+            return (int)(Math.pow(2,hl))-1;
+        }else{
+            return 1+countNodes(root.left)+countNodes(root.right);
         }
     }
+    //方法二
     private int res=0;
-    public int countNodes(TreeNode root) {
+    public int countNodes2(TreeNode root) {
         helper(root);
         return res;
     }

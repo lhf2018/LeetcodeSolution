@@ -1,6 +1,6 @@
 package dynamic_programming;
 
-public class No5686 {
+public class leetcode1769 {
     public int[] minOperations(String boxes) {
         int[] res=new int[boxes.length()];
         int[] left=new int[boxes.length()];

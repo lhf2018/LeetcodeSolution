@@ -233,5 +233,5 @@
 1689 | 十-二进制数的最少数目 | greedy |
 1720 | 解码异或后的数组 | bit |
 1763 | 替换隐藏数字得到的最晚时间 | string |
+1769 | 移动所有球到每个盒子所需的最小操作数 | dynamic programming |
 1786 | 交替合并字符串 | double pointer |
-5686 | 移动所有球到每个盒子所需的最小操作数 | dynamic programming |

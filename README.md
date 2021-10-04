@@ -156,6 +156,7 @@
 1043 | 分隔数组以得到最大和 | dynamic programming |
 1046 | 最后一块石头的重量 | heap |
 1071 | 字符串的最大公因子 | math |
+1089 | 复写零 | double pointer |
 1103 | 分糖果 II | math |
 1104 | 二叉树寻路 | tree |
 1108 | IP 地址无效化 | string |
